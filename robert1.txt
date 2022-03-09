@@ -1,1 +1,3 @@
 stuff
+even more text
+git submodule foreach 'git add .'
